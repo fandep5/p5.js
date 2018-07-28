@@ -1,0 +1,34 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+.perdu{
+    color:black;
+    font-size:30px;
+    text-transform: inherit;
+}
+.bloc-score{
+    color:black;
+    font-size:30px;
+    text-transform:inherit;
+}
+.rejouer{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.scorewha{
+    position:absolute;
+    width:200px;
+    height:50px;
+    top:0%
+    left:20%;
+    background-color: red;
+    color:white;
+    font-size:40px;
+}
